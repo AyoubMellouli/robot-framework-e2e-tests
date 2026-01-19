@@ -1,0 +1,19 @@
+# Robot Framework
+output/
+log.html
+report.html
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Drivers
+chromedriver*
+geckodriver*
