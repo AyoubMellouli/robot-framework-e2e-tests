@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 End-to-end test automation framework built using **Robot Framework** and **Selenium** following the **Page Object Model (POM)** design pattern.
 
-The project automates critical user flows (login, shopping, checkout, confirmation) on a demo web application.
+The project automates critical user flows (login, shopping, checkout, confirmation) on a demo e-commerce web application.
 
 ---
 
